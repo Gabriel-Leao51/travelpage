@@ -1,4 +1,4 @@
-<h1 align="center"> HTML & CSS Basics Summary </h1>
+<h1 align="center"> Travel Page </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
